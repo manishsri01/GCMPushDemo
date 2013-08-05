@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">GCMPushDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="error_config">Some Error</string>
+    
+    <string name="menu_settings">Settings</string>
+</resources>
